@@ -1,0 +1,7 @@
+C:\SYLVAIN FAYE\Documents\Documents de Cheikh Sylvain FAYE\L3\C#\GB\GB\bin\Debug\GB.exe.config
+C:\SYLVAIN FAYE\Documents\Documents de Cheikh Sylvain FAYE\L3\C#\GB\GB\bin\Debug\GB.exe
+C:\SYLVAIN FAYE\Documents\Documents de Cheikh Sylvain FAYE\L3\C#\GB\GB\bin\Debug\GB.pdb
+C:\SYLVAIN FAYE\Documents\Documents de Cheikh Sylvain FAYE\L3\C#\GB\GB\obj\Debug\GB.csproj.AssemblyReference.cache
+C:\SYLVAIN FAYE\Documents\Documents de Cheikh Sylvain FAYE\L3\C#\GB\GB\obj\Debug\GB.csproj.CoreCompileInputs.cache
+C:\SYLVAIN FAYE\Documents\Documents de Cheikh Sylvain FAYE\L3\C#\GB\GB\obj\Debug\GB.exe
+C:\SYLVAIN FAYE\Documents\Documents de Cheikh Sylvain FAYE\L3\C#\GB\GB\obj\Debug\GB.pdb

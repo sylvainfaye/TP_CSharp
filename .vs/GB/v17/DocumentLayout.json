@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\gb\\entities\\comptesimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|solutionrelative:gb\\entities\\comptesimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\gb\\entities\\compteepargne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|solutionrelative:gb\\entities\\compteepargne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\gb\\entities\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|solutionrelative:gb\\entities\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\gb\\metier\\iclientimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|solutionrelative:gb\\metier\\iclientimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\gb\\metier\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|solutionrelative:gb\\metier\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\gb\\metier\\iagenceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|solutionrelative:gb\\metier\\iagenceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\gb\\metier\\iagence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|solutionrelative:gb\\metier\\iagence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\gb\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|solutionrelative:gb\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\gb\\entities\\agence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|solutionrelative:gb\\entities\\agence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\gb\\metier\\icompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|solutionrelative:gb\\metier\\icompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|c:\\sylvain faye\\documents\\documents de cheikh sylvain faye\\l3\\c#\\gb\\gb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A181A92-0CAD-427E-9E53-4E485AB22C11}|GB\\GB.csproj|solutionrelative:gb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Compte.cs",
+              "DocumentMoniker": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Entities\\Compte.cs",
+              "RelativeDocumentMoniker": "GB\\Entities\\Compte.cs",
+              "ToolTip": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Entities\\Compte.cs",
+              "RelativeToolTip": "GB\\Entities\\Compte.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:02:28.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompteEpargne.cs",
+              "DocumentMoniker": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Entities\\CompteEpargne.cs",
+              "RelativeDocumentMoniker": "GB\\Entities\\CompteEpargne.cs",
+              "ToolTip": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Entities\\CompteEpargne.cs",
+              "RelativeToolTip": "GB\\Entities\\CompteEpargne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:23:40.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Agence.cs",
+              "DocumentMoniker": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Entities\\Agence.cs",
+              "RelativeDocumentMoniker": "GB\\Entities\\Agence.cs",
+              "ToolTip": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Entities\\Agence.cs",
+              "RelativeToolTip": "GB\\Entities\\Agence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:00:35.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IClient.cs",
+              "DocumentMoniker": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Metier\\IClient.cs",
+              "RelativeDocumentMoniker": "GB\\Metier\\IClient.cs",
+              "ToolTip": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Metier\\IClient.cs",
+              "RelativeToolTip": "GB\\Metier\\IClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:28:13.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAgenceImpl.cs",
+              "DocumentMoniker": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Metier\\IAgenceImpl.cs",
+              "RelativeDocumentMoniker": "GB\\Metier\\IAgenceImpl.cs",
+              "ToolTip": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Metier\\IAgenceImpl.cs",
+              "RelativeToolTip": "GB\\Metier\\IAgenceImpl.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAIwA8BAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:30:44.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "GB\\Entities\\Client.cs",
+              "ToolTip": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Entities\\Client.cs",
+              "RelativeToolTip": "GB\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:01:47.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompteSimple.cs",
+              "DocumentMoniker": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Entities\\CompteSimple.cs",
+              "RelativeDocumentMoniker": "GB\\Entities\\CompteSimple.cs",
+              "ToolTip": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Entities\\CompteSimple.cs",
+              "RelativeToolTip": "GB\\Entities\\CompteSimple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:24:31.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAgence.cs",
+              "DocumentMoniker": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Metier\\IAgence.cs",
+              "RelativeDocumentMoniker": "GB\\Metier\\IAgence.cs",
+              "ToolTip": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Metier\\IAgence.cs",
+              "RelativeToolTip": "GB\\Metier\\IAgence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:05:45.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IClientImpl.cs",
+              "DocumentMoniker": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Metier\\IClientImpl.cs",
+              "RelativeDocumentMoniker": "GB\\Metier\\IClientImpl.cs",
+              "ToolTip": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Metier\\IClientImpl.cs",
+              "RelativeToolTip": "GB\\Metier\\IClientImpl.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAswI4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:08:40.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICompte.cs",
+              "DocumentMoniker": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Metier\\ICompte.cs",
+              "RelativeDocumentMoniker": "GB\\Metier\\ICompte.cs",
+              "ToolTip": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Metier\\ICompte.cs",
+              "RelativeToolTip": "GB\\Metier\\ICompte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:06:44.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Program.cs",
+              "RelativeDocumentMoniker": "GB\\Program.cs",
+              "ToolTip": "C:\\SYLVAIN FAYE\\Documents\\Documents de Cheikh Sylvain FAYE\\L3\\C#\\GB\\GB\\Program.cs",
+              "RelativeToolTip": "GB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:58:51.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
